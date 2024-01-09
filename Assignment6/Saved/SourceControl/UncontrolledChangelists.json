@@ -5,7 +5,14 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/1.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/1_Inst1.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/OD/YPSPM063O6XAJVKSDHY2JX.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/RY/J1VM1Y3AGFIQ7OUVV106JV.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/1_Inst.uasset",
+				"C:/temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Target_behavior.uasset"
 			]
 		}
 	]
