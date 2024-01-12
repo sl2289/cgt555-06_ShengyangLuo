@@ -1964,3 +1964,577 @@ ImportObjectProperties() [D:\build\++UE5\Sync\Engine\Source\Editor\UnrealEd\Priv
 [2024.01.12-17.46.02:532][370]LogContentValidation: Display: Validating /Game/Target/Bp_Target.Bp_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Bp_Target_C_UAID_309C23BB3FDFD8CE01_1483982713
 [2024.01.12-17.46.02:533][370]LogContentValidation: Display: Validating /Game/Target/Bp_Target.Bp_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Bp_Target_C_UAID_309C23BB3FDFD8CE01_1515536714
 [2024.01.12-17.46.02:533][370]LogContentValidation: Display: Validating /Game/Target/Bp_Target.Bp_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Bp_Target_C_UAID_309C23BB3FDFD8CE01_1517409715
+[2024.01.12-17.48.50:227][952]LogWindows: LaunchFileInExternalEditor C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl 
+[2024.01.12-17.48.50:836][952]LogWindows: Launch application code for C:/Program Files/Epic Games/UE_5.3/Engine/Source/Runtime/Engine/Classes/Kismet/KismetMathLibrary.inl : 42
+[2024.01.12-17.48.50:836][952]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:847][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:848][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:849][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:850][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:851][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:852][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:853][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:854][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:855][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:856][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:857][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:858][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:858][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:860][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:863][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:863][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:863][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:863][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:866][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:889][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:891][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:931][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:931][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:931][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:931][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:932][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:932][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:932][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:932][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:941][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:942][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:943][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:944][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:945][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:946][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:947][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:948][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:949][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:950][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:953][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:955][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:955][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:956][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:956][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:958][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:979][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.50:981][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:019][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:019][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:019][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:019][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:020][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:020][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:020][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.48.51:020][952]LogVSAccessor: Warning: Couldn't access module table
+[2024.01.12-17.49.56:878][529]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.49.56:911][529]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.12-17.49.56:929][529]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.12-17.49.56:933][529]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_TargetF745FC2440E02760AC9F4DA4D4EBCE4E.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.12-17.49.56:946][529]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.07 sec)
+[2024.01.12-17.49.56:947][529]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.12-17.49.56:948][529]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.12-17.49.59:449][812]BlueprintLog: New page: Compile Bp_Target
+[2024.01.12-17.49.59:497][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.12-17.50.00:286][893]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.50.00:424][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.12-17.50.00:444][893]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.12-17.50.00:448][893]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_Target307C6C194037132B88022085E0BA0FE5.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.12-17.50.00:462][893]LogFileHelpers: InternalPromptForCheckoutAndSave took 176 ms (total: 1.25 sec)
+[2024.01.12-17.50.00:463][893]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.12-17.50.00:463][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.12-17.50.01:977][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.12-17.50.14:987][420]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.12-17.50.15:002][420]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.12-17.50.15:002][420]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.12-17.50.15:004][420]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 21 ms)
+[2024.01.12-17.50.15:004][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.12-17.50.15:005][420]PIE: New page: PIE session: FirstPersonMap (Jan 12, 2024, 7:50:15 AM)
+[2024.01.12-17.50.15:043][420]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.12-17.50.15:051][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008299s)
+[2024.01.12-17.50.15:051][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.008366s)
+[2024.01.12-17.50.15:069][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.12-17.50.15:071][420]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-17.50.15:071][420]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-17.50.15:072][420]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.12-17.50.15:072][420]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.12-17.50.15:072][420]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.12-17.50.15:072][420]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.12-17.50.15:072][420]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.12-17.50.15:074][420]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.12-17.50.15:074][420]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 140 ms)
+[2024.01.12-17.50.15:074][420]LogPlayLevel: PIE: World Init took: (0.003143s)
+[2024.01.12-17.50.15:074][420]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.12-17.50.15:074][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.12-17.50.15:074][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.12-17.50.15:075][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.12-17.50.15:075][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.12-17.50.15:075][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.12-17.50.15:077][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.12-17.50.15:099][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.01.12-17.50.15:100][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.12-17.50.15:100][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.12-17.50.15:100][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.12-17.50.15:101][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.01.12-17.50.15:101][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.01.12-17.50.15:103][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.01.12-17.50.15:103][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.01.12-17.50.15:103][420]LogInit: FAudioDevice initialized with ID 10.
+[2024.01.12-17.50.15:103][420]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2024.01.12-17.50.15:103][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.12-17.50.15:106][420]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.12-17.50.15:110][420]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.12-12.50.15
+[2024.01.12-17.50.15:110][420]LogWorld: Bringing up level for play took: 0.003062
+[2024.01.12-17.50.15:112][420]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2024.01.12-17.50.15:115][420]PIE: Server logged in
+[2024.01.12-17.50.15:115][420]PIE: Play in editor total start time 0.113 seconds.
+[2024.01.12-17.50.27:134][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-17.50.27:134][505]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.12-17.50.27:135][505]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-17.50.27:135][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-17.50.27:135][505]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.12-17.50.27:152][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.12-17.50.27:157][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-17.50.27:176][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.12-17.50.27:176][505]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.01.12-17.50.27:177][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.12-17.50.27:179][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.01.12-17.50.27:187][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.12-17.50.27:254][506]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2024.01.12-17.53.05:005][767]LogEditorTransaction: Undo Add Node
+[2024.01.12-17.54.27:283][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.12-17.54.27:285][319]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.01.12-17.54.27:286][319]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Target/Bp_Target] ([2] browsable assets)...
+[2024.01.12-17.54.27:414][319]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Target/Bp_Target.Bp_Target]
+[2024.01.12-17.54.27:414][319]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/Bp_Target]
+[2024.01.12-17.54.27:414][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/Bp_Target_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.01.12-17.54.27:434][319]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/Bp_Target_Auto7
+[2024.01.12-17.54.27:434][319]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_Target_Auto7524A9DF74E82FC9F081496BC8860D6AA.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/Bp_Target_Auto7.uasset'
+[2024.01.12-17.54.27:440][319]LogFileHelpers: Auto-saving content packages took 0.155
+[2024.01.12-17.56.11:535][ 35]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Edit Comment Color entirely.
+[2024.01.12-17.56.11:554][ 35]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.12-17.56.15:078][360]BlueprintLog: New page: Compile Bp_Target
+[2024.01.12-17.56.15:141][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.01.12-17.56.17:615][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.56.17:743][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.12-17.56.17:763][639]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.12-17.56.17:767][639]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_TargetAC073311403B1B3208F7709B98274CEA.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.12-17.56.17:781][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 1.41 sec)
+[2024.01.12-17.56.17:783][639]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.12-17.56.17:783][639]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.12-17.56.35:368][437]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.12-17.56.35:385][437]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.12-17.56.35:397][437]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.12-17.56.35:414][438]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.12-17.56.41:471][617]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2024.01.12-17.56.41:480][617]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.12-17.56.58:051][134]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_target_spawner
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.BP_target_spawner:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.SKEL_BP_target_spawner_C:UserConstructionScript' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.SKEL_BP_target_spawner_C' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.BP_target_spawner_C' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.BP_target_spawner:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.BP_target_spawner:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:089][134]LogMetaData: Removing '/Game/Target/BP_target_spawner.BP_target_spawner:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Target/NewBlueprint.PackageMetaData'
+[2024.01.12-17.56.58:090][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.56.58:133][134]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.12-17.56.58:140][134]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.12-17.56.58:141][134]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner1351371A439909FC8DC205AB6E1F6941.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.12-17.56.58:161][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.49 sec)
+[2024.01.12-17.56.58:186][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.01.12-17.56.58:204][134]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.12-17.56.58:220][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.12-17.56.58:221][134]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.12-17.56.58:221][134]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.12-17.57.08:809][338]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.12-17.57.08:810][338]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-17.57.08:810][338]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-17.57.09:081][338]LogViewport: Scene viewport resized to 987x698, mode Windowed.
+[2024.01.12-17.57.10:616][425]LogViewport: Scene viewport resized to 984x728, mode Windowed.
+[2024.01.12-17.57.10:655][426]LogViewport: Scene viewport resized to 1522x1183, mode Windowed.
+[2024.01.12-17.57.11:580][526]LogSlate: Window 'BP_target_spawner' being destroyed
+[2024.01.12-17.59.04:535][359]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.12-17.59.04:561][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.12-17.59.05:046][395]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-17.59.05:094][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.12-17.59.05:103][395]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.12-17.59.05:108][395]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerE533647F4A107DF3B270B7BD63077B77.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.12-17.59.05:121][395]LogFileHelpers: InternalPromptForCheckoutAndSave took 74 ms (total: 1.56 sec)
+[2024.01.12-17.59.05:122][395]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.12-17.59.05:122][395]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.12-18.00.53:992][310]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.12-18.00.54:019][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.12-18.01.04:846][571]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.12-18.01.04:876][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.01.12-18.01.05:522][637]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.01.05:582][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.12-18.01.05:593][637]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.12-18.01.05:597][637]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerE1FFD44C4A39E6A5EC6ECCB073F10202.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.12-18.01.05:609][637]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 1.65 sec)
+[2024.01.12-18.01.05:611][637]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.12-18.01.05:611][637]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.12-18.01.27:293][970]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Target/BP_target_spawner.BP_target_spawner_C
+[2024.01.12-18.01.27:294][970]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Target/BP_target_spawner.BP_target_spawner_C
+[2024.01.12-18.01.27:296][970]LogActorFactory: Actor Factory spawned Blueprint /Game/Target/BP_target_spawner.BP_target_spawner as actor: BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_0
+[2024.01.12-18.01.27:297][970]LogActorFactory: Actor Factory spawned Blueprint /Game/Target/BP_target_spawner.BP_target_spawner as actor: BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_0
+[2024.01.12-18.01.27:311][970]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.01.12-18.01.28:567][ 72]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Target/BP_target_spawner.BP_target_spawner_C
+[2024.01.12-18.01.28:567][ 72]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Target/BP_target_spawner.BP_target_spawner_C
+[2024.01.12-18.01.28:573][ 72]LogActorFactory: Actor Factory spawned Blueprint /Game/Target/BP_target_spawner.BP_target_spawner as actor: BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068
+[2024.01.12-18.01.28:574][ 72]LogActorFactory: Actor Factory spawned Blueprint /Game/Target/BP_target_spawner.BP_target_spawner as actor: BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068
+[2024.01.12-18.01.51:160][829]Cmd: EDIT COPY
+[2024.01.12-18.01.51:423][854]Cmd: EDIT PASTE
+[2024.01.12-18.03.04:732][774]Cmd: EDIT COPY
+[2024.01.12-18.03.04:934][794]Cmd: EDIT PASTE
+[2024.01.12-18.03.17:820][957]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.03.17:890][957]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O
+[2024.01.12-18.03.17:898][957]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/0XWE3RNM2XQC0ST1KXG02OF96434FF451BBC294C32678C32C39B72.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset'
+[2024.01.12-18.03.17:907][957]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/1UNY77NYIC1WIYHE7VLANU
+[2024.01.12-18.03.17:907][957]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/1UNY77NYIC1WIYHE7VLANUB277856F452AFBB0B87B75B8F2F7B57A.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/1UNY77NYIC1WIYHE7VLANU.uasset'
+[2024.01.12-18.03.17:916][957]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/P6/KSWW74O8QYGYWG0PDBXRTT
+[2024.01.12-18.03.17:916][957]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/KSWW74O8QYGYWG0PDBXRTTA24A36894433D410BFBB92B43EE81AE8.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/P6/KSWW74O8QYGYWG0PDBXRTT.uasset'
+[2024.01.12-18.03.17:925][957]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IW/2UC1D63JQ74WAF8XW1P9M2
+[2024.01.12-18.03.17:925][957]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/2UC1D63JQ74WAF8XW1P9M2A33ECA964C882B6A6285E58901731523.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/IW/2UC1D63JQ74WAF8XW1P9M2.uasset'
+[2024.01.12-18.03.17:941][957]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 1.77 sec)
+[2024.01.12-18.03.18:045][957]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.12-18.03.18:045][957]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_3
+[2024.01.12-18.03.18:045][957]LogContentValidation: Display: Validating /Game/Target/BP_target_spawner.BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068
+[2024.01.12-18.03.18:045][957]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_309C23BB3FDFDACE01_1116439069
+[2024.01.12-18.03.18:045][957]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_309C23BB3FDFDACE01_1189951070
+[2024.01.12-18.04.03:209][333]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.04.03:262][333]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/1UNY77NYIC1WIYHE7VLANU
+[2024.01.12-18.04.03:269][333]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/1UNY77NYIC1WIYHE7VLANU062D54B3458E51670212E7BD72F77675.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/04/1UNY77NYIC1WIYHE7VLANU.uasset'
+[2024.01.12-18.04.03:283][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 1.84 sec)
+[2024.01.12-18.04.03:285][333]AssetCheck: New page: Asset Save: BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068
+[2024.01.12-18.04.03:285][333]LogContentValidation: Display: Validating /Game/Target/BP_target_spawner.BP_target_spawner_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068
+[2024.01.12-18.06.31:101][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2024.01.12-18.06.31:101][923]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.12-18.06.31:101][923]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.12-18.06.55:662][797]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.12-18.06.55:662][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.12-18.07.48:752][527]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.12-18.07.48:754][527]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.036
+[2024.01.12-18.07.48:754][527]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target/BP_target_spawner] ([2] browsable assets)...
+[2024.01.12-18.07.48:754][527]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/BP_target_spawner]
+[2024.01.12-18.07.48:765][527]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/BP_target_spawner_Auto8
+[2024.01.12-18.07.48:765][527]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner_Auto8D70AC1CD40D25B10A2F2839E70410F97.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/BP_target_spawner_Auto8.uasset'
+[2024.01.12-18.07.48:771][527]LogFileHelpers: Auto-saving content packages took 0.017
+[2024.01.12-18.11.41:980][155]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.12-18.11.42:017][155]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.12-18.11.42:559][212]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.12-18.11.42:608][212]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.12-18.11.42:621][212]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.12-18.11.42:626][212]LogSavePackage: Moving '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner996987DF4D3DC20BFA8702A8D9D7BE30.tmp' to '../../../../../../temp/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.12-18.11.42:640][212]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.92 sec)
+[2024.01.12-18.11.42:642][212]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.12-18.11.42:642][212]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.12-18.11.43:964][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.12-18.11.47:708][698]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
