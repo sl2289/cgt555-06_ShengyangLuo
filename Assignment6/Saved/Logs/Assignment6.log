@@ -1472,3 +1472,81 @@ LogConfig: CVar [[r.Occlusion.SingleRHIThreadStall:1]] deferred - dummy variable
 [2024.01.14-16.30.38:018][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 653 ms)
 [2024.01.14-16.30.38:018][724]AssetCheck: New page: Asset Save: Target_behavior
 [2024.01.14-16.30.38:018][724]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Target/Target_behavior.Target_behavior
+[2024.01.14-16.35.26:441][399]BlueprintLog: New page: Compile Bp_Target
+[2024.01.14-16.35.26:488][399]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.14-16.35.27:522][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.14-16.35.27:643][508]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.14-16.35.27:655][508]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.14-16.35.27:655][508]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_Target951A159A48AA50D2D80F43A32E69FB6D.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.14-16.35.27:662][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 793 ms)
+[2024.01.14-16.35.27:663][508]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.14-16.35.27:663][508]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.14-16.53.31:826][950]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.039 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3490 files in 2181 folders with total size 665 MiB.
+[2024.01.14-17.38.31:364][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.01.14-17.38.31:366][796]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2024.01.14-17.38.31:366][796]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target/BP_target_spawner] ([2] browsable assets)...
+[2024.01.14-17.38.31:366][796]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/BP_target_spawner]
+[2024.01.14-17.38.31:371][796]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/BP_target_spawner_Auto4
+[2024.01.14-17.38.31:371][796]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner_Auto48BE2BEE44C3C1B235630B788157460D4.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/BP_target_spawner_Auto4.uasset'
+[2024.01.14-17.38.31:372][796]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.14-17.48.31:715][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.01.14-17.48.31:715][842]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.014
+[2024.01.14-17.48.31:716][842]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target/BP_target_spawner] ([2] browsable assets)...
+[2024.01.14-17.48.31:716][842]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/BP_target_spawner]
+[2024.01.14-17.48.31:722][842]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/BP_target_spawner_Auto5
+[2024.01.14-17.48.31:722][842]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner_Auto56AE46BA947F68EEE54D279BFD50D4F7D.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/BP_target_spawner_Auto5.uasset'
+[2024.01.14-17.48.31:722][842]LogFileHelpers: Auto-saving content packages took 0.006
+[2024.01.14-17.53.31:824][743]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.036 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3490 files in 2181 folders with total size 665 MiB.
+[2024.01.14-18.35.58:332][172]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.01.14-18.35.58:333][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.01.14-18.35.58:333][172]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target/BP_target_spawner] ([2] browsable assets)...
+[2024.01.14-18.35.58:333][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/BP_target_spawner]
+[2024.01.14-18.35.58:339][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/BP_target_spawner_Auto6
+[2024.01.14-18.35.58:339][172]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner_Auto680C90E744C24F7C768B46684E3F1974F.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/BP_target_spawner_Auto6.uasset'
+[2024.01.14-18.35.58:341][172]LogFileHelpers: Auto-saving content packages took 0.007
+[2024.01.14-18.36.40:735][698]LogEditorTransaction: Undo Promote To Variable
+[2024.01.14-18.36.45:415][198]LogEditorTransaction: Undo Move Node
+[2024.01.14-18.36.46:707][295]LogEditorTransaction: Undo Create Pin Link
+[2024.01.14-18.36.48:001][441]LogEditorTransaction: Undo Add Node
+[2024.01.14-18.36.48:682][514]LogEditorTransaction: Undo Create Pin Link
+[2024.01.14-18.36.49:024][547]LogEditorTransaction: Undo Move Node
+[2024.01.14-18.37.31:050][482]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.14-18.37.31:083][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.14-18.37.55:577][207]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'UKismetMathLibrary::RandomPointInBoundingBox' [找不到元素。]
+[2024.01.14-18.38.21:106][856]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.14-18.38.21:137][856]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.01.14-18.38.22:210][975]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.14-18.38.22:277][975]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.14-18.38.22:299][975]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.14-18.38.22:299][975]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerF76C669D47A63933E43AE88082321F57.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.14-18.38.22:311][975]LogFileHelpers: InternalPromptForCheckoutAndSave took 101 ms (total: 895 ms)
+[2024.01.14-18.38.22:312][975]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.14-18.38.22:313][975]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.14-18.45.58:253][106]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.14-18.45.58:256][106]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.019
+[2024.01.14-18.45.58:256][106]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Target/BP_target_spawner] ([2] browsable assets)...
+[2024.01.14-18.45.58:256][106]OBJ SavePackage: Finished generating thumbnails for package [/Game/Target/BP_target_spawner]
+[2024.01.14-18.45.58:263][106]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Target/BP_target_spawner_Auto7
+[2024.01.14-18.45.58:263][106]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawner_Auto729A6DA67422D2B5B71290A9D92087B43.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Target/BP_target_spawner_Auto7.uasset'
+[2024.01.14-18.45.58:264][106]LogFileHelpers: Auto-saving content packages took 0.008
+[2024.01.14-18.53.31:151][819]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.14-18.53.31:187][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.14-18.53.31:830][885]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.042 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3490 files in 2181 folders with total size 665 MiB.
+[2024.01.14-18.53.32:304][942]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.14-18.53.32:359][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.14-18.53.32:368][942]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.14-18.53.32:368][942]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerC72A0C8D425A4DEBB956118E4443AA83.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.14-18.53.32:376][942]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 967 ms)
+[2024.01.14-18.53.32:378][942]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.14-18.53.32:378][942]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.14-18.53.36:234][240]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.14-18.53.36:309][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.14-18.53.36:323][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.14-18.53.36:336][240]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2024.01.14-18.53.36:347][240]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 1.08 sec)
+[2024.01.14-18.53.37:135][327]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.14-18.53.37:205][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.14-18.53.37:219][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.01.14-18.53.37:231][327]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.14-18.53.37:241][327]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 1.18 sec)
+[2024.01.14-18.53.42:541][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
