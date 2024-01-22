@@ -5916,3 +5916,193 @@ UnknownFunction []
 [2024.01.22-15.46.58:003][  0]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.22-15.46.58:003][  0]LogContentValidation: Display: Validating /Game/Target/BPC_weaponSelect.BPC_weaponSelect_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_weaponSelect_C_UAID_A4BB6D4E6467F2D101_2094544513
 [2024.01.22-15.46.58:003][  0]LogContentValidation: Display: Validating /Game/Target/BPC_weaponSelect.BPC_weaponSelect_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BPC_weaponSelect_C_UAID_A4BB6D4E6467F2D101_2035275459
+[2024.01.22-15.47.23:035][516]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Weapon/BPI_damage.BPI_damage
+[2024.01.22-15.47.23:035][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-15.47.23:035][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-15.47.48:090][982]BlueprintLog: New page: Compile BPI_damage
+[2024.01.22-15.47.48:166][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2024.01.22-15.47.48:191][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_299.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:194][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_1059.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:198][982]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_2094637571.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:244][982]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618603.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:297][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_301.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:299][982]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_1061.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:302][982]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_2094637572.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:309][982]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618604.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.47.48:807][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.47.48:869][ 29]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BPI_damage" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Weapon/BPI_damage.uasset" SILENT=true
+[2024.01.22-15.47.48:870][ 29]LogSavePackage: Moving output files for package: /Game/Weapon/BPI_damage
+[2024.01.22-15.47.48:871][ 29]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BPI_damageE0F983C943001AAD5226C08EF385F4FD.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Weapon/BPI_damage.uasset'
+[2024.01.22-15.47.48:884][ 29]LogFileHelpers: InternalPromptForCheckoutAndSave took 76 ms (total: 11.5 sec)
+[2024.01.22-15.47.48:896][ 29]AssetCheck: New page: Asset Save: BPI_damage
+[2024.01.22-15.47.48:896][ 29]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapon/BPI_damage.BPI_damage
+[2024.01.22-15.48.14:521][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.01.22-15.48.14:525][346]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2024.01.22-15.48.14:525][346]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Weapon/BPC_Assaultriffal] ([2] browsable assets)...
+[2024.01.22-15.48.14:555][346]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapon/BPC_Assaultriffal.BPC_Assaultriffal]
+[2024.01.22-15.48.14:556][346]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/BPC_Assaultriffal]
+[2024.01.22-15.48.14:565][346]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapon/BPC_Assaultriffal_Auto3
+[2024.01.22-15.48.14:565][346]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BPC_Assaultriffal_Auto37985ADF74224D60C2A4B94B16B7AF422.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Weapon/BPC_Assaultriffal_Auto3.uasset'
+[2024.01.22-15.48.14:565][346]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.01.22-15.48.18:545][677]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.22-15.48.18:545][677]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-15.48.18:545][677]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-15.50.21:253][588]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.22-15.50.21:349][588]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.22-15.50.21:815][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.50.21:882][626]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.22-15.50.21:902][626]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.22-15.50.21:902][626]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerAD460CEE44B18818C8882389CE3EC924.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.22-15.50.21:914][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 11.6 sec)
+[2024.01.22-15.50.21:917][626]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.22-15.50.21:917][626]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.22-15.50.38:663][639]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.22-15.50.38:664][639]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-15.50.38:686][639]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-15.51.34:661][265]BlueprintLog: New page: Compile Bp_Target
+[2024.01.22-15.51.34:830][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.22-15.51.36:900][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.51.37:025][467]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.22-15.51.37:050][467]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.22-15.51.37:051][467]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_Target860605864371E434291178AACD9FBB98.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.22-15.51.37:064][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 11.8 sec)
+[2024.01.22-15.51.37:066][467]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.22-15.51.37:066][467]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.22-15.52.15:158][272]LogDerivedDataCache: C:/Users/71661/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.020 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 3672 files in 2401 folders with total size 676 MiB.
+[2024.01.22-15.52.40:851][239]BlueprintLog: New page: Compile Bp_Target
+[2024.01.22-15.52.40:893][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.22-15.52.41:374][275]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.52.41:479][275]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.22-15.52.41:515][275]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.22-15.52.41:515][275]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_Target1141D9BE41429C3618CBDD8E48FB411B.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.22-15.52.41:530][275]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 11.9 sec)
+[2024.01.22-15.52.41:532][275]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.22-15.52.41:532][275]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.22-15.53.48:668][159]BlueprintLog: New page: Compile BP_target_spawner
+[2024.01.22-15.53.48:714][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.22-15.53.49:362][208]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.53.49:430][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/BP_target_spawner" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset" SILENT=true
+[2024.01.22-15.53.49:442][208]LogSavePackage: Moving output files for package: /Game/Target/BP_target_spawner
+[2024.01.22-15.53.49:442][208]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BP_target_spawnerFB7123A542030BBA094101B4035AA016.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/BP_target_spawner.uasset'
+[2024.01.22-15.53.49:456][208]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 12.0 sec)
+[2024.01.22-15.53.49:458][208]AssetCheck: New page: Asset Save: BP_target_spawner
+[2024.01.22-15.53.49:459][208]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/BP_target_spawner.BP_target_spawner
+[2024.01.22-15.54.20:246][288]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_2094637573.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.54.20:248][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_1063.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.54.20:252][288]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_303.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.14:481][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.22-15.58.14:487][867]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.023
+[2024.01.22-15.58.14:487][867]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Weapon/BPC_Assaultriffal] ([2] browsable assets)...
+[2024.01.22-15.58.14:560][867]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Weapon/BPC_Assaultriffal.BPC_Assaultriffal]
+[2024.01.22-15.58.14:560][867]OBJ SavePackage: Finished generating thumbnails for package [/Game/Weapon/BPC_Assaultriffal]
+[2024.01.22-15.58.14:571][867]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Weapon/BPC_Assaultriffal_Auto4
+[2024.01.22-15.58.14:571][867]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BPC_Assaultriffal_Auto44A4492CE473FEF0E2750599E07600D47.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Autosaves/Game/Weapon/BPC_Assaultriffal_Auto4.uasset'
+[2024.01.22-15.58.14:572][867]LogFileHelpers: Auto-saving content packages took 0.085
+[2024.01.22-15.58.53:824][879]BlueprintLog: New page: Compile BPC_Assaultriffal
+[2024.01.22-15.58.53:867][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.22-15.58.53:873][879]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_2094637574.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.53:875][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_1065.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.53:877][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_305.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.53:932][879]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_2094637575.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.53:933][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_31:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_1067.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.53:935][879]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_29:PersistentLevel.DESTROYED_BPC_Assaultriffal_C_CHILDACTOR_307.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.58.54:549][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-15.58.54:690][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Weapon/BPC_Assaultriffal" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Weapon/BPC_Assaultriffal.uasset" SILENT=true
+[2024.01.22-15.58.54:723][935]LogSavePackage: Moving output files for package: /Game/Weapon/BPC_Assaultriffal
+[2024.01.22-15.58.54:724][935]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/BPC_AssaultriffalB0A6582648B766F3A4D1799119C640CF.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Weapon/BPC_Assaultriffal.uasset'
+[2024.01.22-15.58.54:740][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 12.2 sec)
+[2024.01.22-15.58.54:743][935]AssetCheck: New page: Asset Save: BPC_Assaultriffal
+[2024.01.22-15.58.54:743][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Weapon/BPC_Assaultriffal.BPC_Assaultriffal
+[2024.01.22-15.59.35:624][541]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618605.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.59.50:907][  5]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618606.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-15.59.58:983][957]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618607.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-16.01.33:692][386]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618608.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-16.03.40:584][407]BlueprintLog: New page: Compile Bp_Target
+[2024.01.22-16.03.40:704][407]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.22-16.03.41:186][443]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.22-16.03.41:314][443]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Target/Bp_Target" FILE="C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset" SILENT=true
+[2024.01.22-16.03.41:339][443]LogSavePackage: Moving output files for package: /Game/Target/Bp_Target
+[2024.01.22-16.03.41:339][443]LogSavePackage: Moving 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Saved/Bp_TargetE9D013214058B0A602CE84955800A434.tmp' to 'C:/Users/71661/Downloads/cgt555-06_ShengyangLuo/Assignment6/Content/Target/Bp_Target.uasset'
+[2024.01.22-16.03.41:352][443]LogFileHelpers: InternalPromptForCheckoutAndSave took 165 ms (total: 12.4 sec)
+[2024.01.22-16.03.41:352][443]AssetCheck: New page: Asset Save: Bp_Target
+[2024.01.22-16.03.41:352][443]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Target/Bp_Target.Bp_Target
+[2024.01.22-16.04.06:886][745]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.22-16.04.06:891][745]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.01.22-16.04.06:891][745]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.01.22-16.04.06:893][745]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 98 ms)
+[2024.01.22-16.04.06:894][745]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.22-16.04.06:894][745]LogPlayLevel: [PlayLevel] Compiling BPC_Shotgun before play...
+[2024.01.22-16.04.06:928][745]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618609.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-16.04.06:981][745]LogActorComponent: RegisterComponentWithWorld: (/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.DESTROYED_BPC_Shotgun_C_CHILDACTOR_2102618610.DefaultSceneRoot) Trying to register component with IsValid() == false. Aborting.
+[2024.01.22-16.04.06:999][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.01.22-16.04.07:004][745]LogPlayLevel: PlayLevel: Blueprint regeneration took 109 ms (1 blueprints)
+[2024.01.22-16.04.07:004][745]PIE: New page: PIE session: FirstPersonMap (2024年1月22日 上午6:04:07)
+[2024.01.22-16.04.07:034][745]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.22-16.04.07:041][745]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006518s)
+[2024.01.22-16.04.07:041][745]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006558s)
+[2024.01.22-16.04.07:053][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.01.22-16.04.07:055][745]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.22-16.04.07:055][745]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.22-16.04.07:056][745]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.01.22-16.04.07:056][745]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.01.22-16.04.07:056][745]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.22-16.04.07:056][745]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.01.22-16.04.07:056][745]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.01.22-16.04.07:057][745]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.01.22-16.04.07:057][745]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 1.51 sec)
+[2024.01.22-16.04.07:057][745]LogPlayLevel: PIE: World Init took: (0.002920s)
+[2024.01.22-16.04.07:057][745]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.22-16.04.07:058][745]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.01.22-16.04.07:058][745]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.22-16.04.07:058][745]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.22-16.04.07:058][745]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.22-16.04.07:058][745]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.22-16.04.07:061][745]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.22-16.04.07:078][745]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G560 Gaming Speaker)
+[2024.01.22-16.04.07:078][745]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.22-16.04.07:078][745]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.22-16.04.07:078][745]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.22-16.04.07:079][745]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2024.01.22-16.04.07:079][745]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=43
+[2024.01.22-16.04.07:081][745]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2024.01.22-16.04.07:081][745]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2024.01.22-16.04.07:081][745]LogInit: FAudioDevice initialized with ID 43.
+[2024.01.22-16.04.07:081][745]LogAudio: Display: Audio Device (ID: 43) registered with world 'FirstPersonMap'.
+[2024.01.22-16.04.07:081][745]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.22-16.04.07:085][745]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.01.22-16.04.07:088][745]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.01.22-11.04.07
+[2024.01.22-16.04.07:088][745]LogWorld: Bringing up level for play took: 0.002994
+[2024.01.22-16.04.07:091][745]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2024.01.22-16.04.07:094][745]PIE: Server logged in
+[2024.01.22-16.04.07:094][745]PIE: Play in editor total start time 0.203 seconds.
+[2024.01.22-16.04.38:824][431]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 1
+[2024.01.22-16.04.52:346][989]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 2
+[2024.01.22-16.04.57:365][580]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 3
+[2024.01.22-16.05.07:013][682]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 4
+[2024.01.22-16.05.18:889][980]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 5
+[2024.01.22-16.05.19:688][ 64]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 7
+[2024.01.22-16.05.20:174][114]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 10
+[2024.01.22-16.05.25:068][634]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 11
+[2024.01.22-16.05.28:796][ 36]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 12
+[2024.01.22-16.05.30:544][220]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 14
+[2024.01.22-16.05.33:158][517]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 15
+[2024.01.22-16.05.42:947][613]LogBlueprintUserMessages: [BP_target_spawner_C_UAID_309C23BB3FDFDACE01_1093583068] 16
+[2024.01.22-16.05.44:317][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-16.05.44:317][756]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.01.22-16.05.44:317][756]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.01.22-16.05.44:320][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-16.05.44:321][756]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.01.22-16.05.44:338][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.22-16.05.44:345][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.22-16.05.44:361][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.22-16.05.44:363][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2024.01.22-16.05.44:370][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.22-16.05.44:374][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2024.01.22-16.05.44:386][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.22-16.05.44:444][757]LogPlayLevel: Display: Destroying online subsystem :Context_96
